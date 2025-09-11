@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">practicaListas</string>
+    <string name="app_name">CatTinder</string>
+    <string name="main_title">🐱 CatTinder</string>
+    <string name="no_more_cats">¡No hay más gatos!</string>
+    <string name="view_liked_cats">Ver gatos que me gustan</string>
+    <string name="liked_cats_title">🐱 Gatos que me gustan</string>
+    <string name="no_liked_cats_title">😿</string>
+    <string name="no_liked_cats_message">Aún no has dado like a ningún gato</string>
+    <string name="no_liked_cats_subtitle">¡Ve a la pantalla principal y encuentra tu gato perfecto!</string>
+    <string name="back_button">← Volver</string>
+    <string name="dislike_button">❌</string>
+    <string name="like_button">❤️</string>
 </resources>

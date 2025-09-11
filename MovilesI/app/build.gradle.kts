@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.practicalistas"
+    namespace = "com.example.practicotinder"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.practicalistas"
+        applicationId = "com.example.practicotinder"
         minSdk = 30
         targetSdk = 36
         versionCode = 1
@@ -49,8 +49,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
-    implementation("io.coil-kt:coil-compose:2.4.0")
-    implementation(libs.ui.graphics)
+    implementation("io.coil-kt:coil-compose:2.7.0")
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

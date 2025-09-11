@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "practicaListas"
+rootProject.name = "PracticoTinder"
 include(":app")
  
